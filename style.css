@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+}
+
+body{
+    font-size: 200%;
+    background-color: rgb(197, 240, 241);
+}
+
+h1{
+    text-align: center;
+}
+
+section{
+    margin: 3%;
+}
+
+p{
+    text-align: end;
+}
+
+.res1, .res3, .res4, .res5, .res6, .res7 {
+    display: flex;
+    gap: 10px; /* Espaço entre os elementos */
+
+}
+
